@@ -1,0 +1,1 @@
+hello world select insert update delete
